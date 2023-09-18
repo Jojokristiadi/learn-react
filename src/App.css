@@ -41,3 +41,7 @@
 .todo-form p{
   text-align: center;
 }
+
+.strike {
+  text-decoration: line-through;
+}
